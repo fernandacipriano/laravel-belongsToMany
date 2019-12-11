@@ -1,8 +1,8 @@
 # laravel-oneToMany (feito com belongsToMany + tabela pivot)
 
-git clone https://github.com/fernandacipriano/laravel-belongsToMany.git
+git clone https://github.com/fernandacipriano/laravel-oneToMany.git
 
-cd laravel-belongsToMany
+cd laravel-oneToMany
 
 composer install
 
