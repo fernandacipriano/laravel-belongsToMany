@@ -13,3 +13,10 @@ php artisan db:seed
 php artisan serve
 
 Acessar http://localhost:8000
+
+Observação: 
+Caso der erro "No application encryption key has been specified"
+
+Execute: 
+php artisan key:generate
+
