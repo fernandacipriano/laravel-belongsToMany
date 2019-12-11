@@ -6,4 +6,10 @@ cd laravel-oneToMany
 
 composer install
 
+Configurar banco de dados
+
 php artisan db:seed
+
+php artisan serve
+
+Acessar http://localhost:8000
